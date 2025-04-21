@@ -3,28 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Live Connection Logs</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.min.js"></script>
-    <script>
-        // Establish connection with SocketIO server
-        var socket = io.connect('http://' + document.domain + ':' + location.port);
-
-        // Listen for 'new_log' events and append them to the table
-        socket.on('new_log', function(data) {
-            var logEntry = document.createElement("tr");
-            logEntry.innerHTML = `
-                <td>${data.timestamp}</td>
-                <td>${data.event_type}</td>
-                <td>${data.ip_address}</td>
-                <td>${data.message}</td>
-            `;
-            document.getElementById("logTable").appendChild(logEntry);
-        });
-    </script>
+    <title>Honeypot Logs</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.min.js"></script>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 8px 12px; border: 1px solid #ddd; }
+    </style>
 </head>
 <body>
-    <h1>Live Connection Logs</h1>
-    <table border="1">
+    <h2>Live Connection Logs</h2>
+    <table id="logs-table">
         <thead>
             <tr>
                 <th>Timestamp</th>
@@ -33,9 +21,27 @@
                 <th>Message</th>
             </tr>
         </thead>
-        <tbody id="logTable">
-            <!-- New log entries will be appended here -->
+        <tbody>
+            <!-- Logs will be dynamically added here -->
         </tbody>
     </table>
+
+    <script>
+        // Connect to the Flask server via Socket.IO
+        const socket = io.connect('http://127.0.0.1:5000');  // Ensure Flask is running
+
+        // Listen for new log events
+        socket.on('new_log', (data) => {
+            // Append new log data to the table
+            const logRow = document.createElement('tr');
+            logRow.innerHTML = `
+                <td>${data.timestamp}</td>
+                <td>${data.event_type}</td>
+                <td>${data.ip_address}</td>
+                <td>${data.message}</td>
+            `;
+            document.querySelector('#logs-table tbody').appendChild(logRow);
+        });
+    </script>
 </body>
 </html>

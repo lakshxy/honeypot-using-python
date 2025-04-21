@@ -72,3 +72,599 @@ INFO:werkzeug: * Restarting with stat
 2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "POST /socket.io/?EIO=4&transport=polling&t=PPPvQlG&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
 2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQlI&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
 2025-04-22 01:19:06 - INFO - 127.0.0.1 - - [22/Apr/2025 01:19:06] "GET /socket.io/?EIO=4&transport=polling&t=PPPvQqE&sid=rD1LB1h0gfPN4bovAAAO HTTP/1.1" 200 -
+2025-04-22 02:27:17,150 - Connection from ('127.0.0.1', 60795)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:32:29] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:32:31] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:32:45] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:32:46] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:33:23] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:35:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:35:14] "GET /socket.io/?EIO=4&transport=polling&t=PPQAs3E HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:35:14] "POST /socket.io/?EIO=4&transport=polling&t=PPQAs3R&sid=hx_hxbtt_PtlUixFAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:35:14] "GET /socket.io/?EIO=4&transport=polling&t=PPQAs3S&sid=hx_hxbtt_PtlUixFAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\honeypot-using-python\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:35] "GET /socket.io/?EIO=4&transport=polling&t=PPQB9lo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:35] "POST /socket.io/?EIO=4&transport=polling&t=PPQB9oL&sid=BKb1AKOuVFu-B1PwAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:35] "GET /socket.io/?EIO=4&transport=polling&t=PPQB9oM&sid=BKb1AKOuVFu-B1PwAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:44] "GET /socket.io/?EIO=4&transport=websocket&sid=BKb1AKOuVFu-B1PwAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:36:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:37:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:37:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:37:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:37:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:37:41] "GET / HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:38:45 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:38:45] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:38:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:38:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\honeypot-using-python\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:37] "GET / HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:39 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:39] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:40 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:40] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:41 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:41] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:43 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:43] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:40:44 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:40:44] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:41:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:41:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:41:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:41:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:41:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:01] "GET / HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:42:47 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:47] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:42:49 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:49] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:42:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\honeypot-using-python\\simulate_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\honeypot-using-python\\simulate_connection.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:48:56] "GET /socket.io/?transport=polling&EIO=4&t=1745270336.6572473 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:48:56] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:48:56] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270336.6656728 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:48:56] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:48:58] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:00] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:02] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:04] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:05 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:05] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:05] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270336.6929588 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:06] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:07 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:07] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:07] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270345.5017793 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:08] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:08 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:08] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:08] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270347.8689563 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:10] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:10 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:10] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:10] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270348.8351514 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:12] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:14] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:16] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:18] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:20] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:21] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270350.884525 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:21] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:22] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:24] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:26] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:28] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:30] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:32] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:34] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:36] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:38] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:40] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:42] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:44] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:46] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270361.6657026 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:46] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:46] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:48] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:50] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:51 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:51] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:51] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270386.673141 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:52 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:52] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:52] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270391.2312884 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:52] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:53 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:53] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:53] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270392.3196208 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:49:53 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:53] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:53] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270393.128088 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:54] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:56] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:49:58] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:00] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:02] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:04] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:06] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:08] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:10] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:11] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270393.6783159 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:11] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:12] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:14] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:16] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:18] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:20] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:22] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:24] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:26] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:28] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:30] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:32] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:34] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:36] "GET /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA&t=1745270411.6771817 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:36] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:36] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:38] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:40] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:42] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:44] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:46] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:48] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:50] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:50:52] "POST /socket.io/?transport=polling&EIO=4&sid=OOaBRt-FTBa-TCKaAAAA HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:38] "GET / HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:40 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:40] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:41 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:41] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:41 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:41] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:41 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:41] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:52:42 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:42] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:52:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:34] "GET /socket.io/?transport=polling&EIO=4&t=1745270674.3167627 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:34] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:34] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270674.3247097 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:34] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:36] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:38] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:40] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:42] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:44] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:54:44 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:44] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:44] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270674.3418572 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:54:46 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:46] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:46] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270684.9051836 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:46] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:54:46 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:46] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:46] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270686.1864007 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:54:47 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:47] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:47] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270686.9775817 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:54:47 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:47] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:47] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270687.4775286 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:48] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:50] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:52] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:54] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:56] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:58] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:59] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270687.7169938 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:54:59] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:00] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:02] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:04] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:06] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:08] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:10] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:12] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:14] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:16] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:18] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:20] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:22] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:24] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270699.3251169 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:24] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:24] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:26] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:28] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:30] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:32] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:34] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:36] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:38] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:40] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:42] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:44] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:46] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:48] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:49] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270724.360982 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:49] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:50] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:52] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:54] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:56] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:55:58] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:00] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:02] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:04] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:06] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:08] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:10] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:12] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:14] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270749.3835118 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:14] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:14] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:16] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:18] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:20] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:22] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:24] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:26] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:28] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:30] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:32] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:34] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:36] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:38] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:39] "GET /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA&t=1745270774.4083352 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:39] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:40] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:42] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:44] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:46] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:48] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:50] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:52] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:54] "POST /socket.io/?transport=polling&EIO=4&sid=YPuyyFyGyXI3Ko-xAAAA HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\laksh\\honeypot-using-python\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:57] "GET /socket.io/?transport=polling&EIO=4&t=1745270816.9709654 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:57] "POST /socket.io/?transport=polling&EIO=4&sid=ioF_86BEKSoX7DJfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:57] "GET /socket.io/?transport=polling&EIO=4&sid=ioF_86BEKSoX7DJfAAAA&t=1745270817.4792807 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:56:58] "POST /socket.io/?transport=polling&EIO=4&sid=ioF_86BEKSoX7DJfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:00] "POST /socket.io/?transport=polling&EIO=4&sid=ioF_86BEKSoX7DJfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 388-465-308
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:49] "GET /socket.io/?EIO=4&transport=polling&t=PPQG0nu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:49] "POST /socket.io/?EIO=4&transport=polling&t=PPQG0o7&sid=ZUhOmodCt3l9WKvTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:49] "GET /socket.io/?EIO=4&transport=polling&t=PPQG0o8&sid=ZUhOmodCt3l9WKvTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:50] "GET /socket.io/?EIO=4&transport=websocket&sid=ZUhOmodCt3l9WKvTAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:50] "GET /socket.io/?EIO=4&transport=polling&t=PPQG147 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:50] "POST /socket.io/?EIO=4&transport=polling&t=PPQG14J&sid=1kS0IWVfXodpn-F7AAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:50] "GET /socket.io/?EIO=4&transport=polling&t=PPQG14K&sid=1kS0IWVfXodpn-F7AAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "GET /socket.io/?EIO=4&transport=websocket&sid=1kS0IWVfXodpn-F7AAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "GET /socket.io/?EIO=4&transport=polling&t=PPQG1Jp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "POST /socket.io/?EIO=4&transport=polling&t=PPQG1K0&sid=gXXUWsiJ9kjiN-NtAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "GET /socket.io/?EIO=4&transport=polling&t=PPQG1K1&sid=gXXUWsiJ9kjiN-NtAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:51] "GET /socket.io/?EIO=4&transport=polling&t=PPQG1KE&sid=gXXUWsiJ9kjiN-NtAAAE HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:57:53 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:53] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:57:54 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:54] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:57:54 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:57:54] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:03] "GET /socket.io/?transport=polling&EIO=4&t=1745270883.1629388 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:03] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:03] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270883.1683085 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:03] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:05] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:07] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:08] "GET /socket.io/?EIO=4&transport=websocket&sid=gXXUWsiJ9kjiN-NtAAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:08] "GET /socket.io/?EIO=4&transport=polling&t=PPQG5Sf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:08] "POST /socket.io/?EIO=4&transport=polling&t=PPQG5Sl&sid=tBuyUA1G0nVY5n-xAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:08] "GET /socket.io/?EIO=4&transport=polling&t=PPQG5Sn&sid=tBuyUA1G0nVY5n-xAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:09] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:10] "GET /socket.io/?EIO=4&transport=websocket&sid=tBuyUA1G0nVY5n-xAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:10] "GET /socket.io/?EIO=4&transport=polling&t=PPQG5y1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:10] "POST /socket.io/?EIO=4&transport=polling&t=PPQG5yN&sid=bWTK2nCVLCQY7lAYAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:10] "GET /socket.io/?EIO=4&transport=polling&t=PPQG5yO&sid=bWTK2nCVLCQY7lAYAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=websocket&sid=bWTK2nCVLCQY7lAYAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG68U HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "POST /socket.io/?EIO=4&transport=polling&t=PPQG68p&sid=U7OSK_cvdIZemKgtAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG68r&sid=U7OSK_cvdIZemKgtAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=websocket&sid=U7OSK_cvdIZemKgtAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG6Fk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "POST /socket.io/?EIO=4&transport=polling&t=PPQG6Fw&sid=zMe5FbxYCnT4_vm3AAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG6Fx&sid=zMe5FbxYCnT4_vm3AAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=websocket&sid=zMe5FbxYCnT4_vm3AAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG6Jp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "POST /socket.io/?EIO=4&transport=polling&t=PPQG6J_&sid=w7yUFgXpZ1JbXFUvAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:11] "GET /socket.io/?EIO=4&transport=polling&t=PPQG6K0&sid=w7yUFgXpZ1JbXFUvAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:13] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:13 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:13] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:13] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270883.172012 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:14 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:14] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:14] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270893.7921996 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:15] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:15 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:15] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:15] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270894.7603292 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:16 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:16] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:16] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270895.6404383 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:17] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "GET /socket.io/?EIO=4&transport=websocket&sid=w7yUFgXpZ1JbXFUvAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "GET /socket.io/?EIO=4&transport=polling&t=PPQG8Iq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "POST /socket.io/?EIO=4&transport=polling&t=PPQG8J3&sid=VWDy7zxKObRdLpa0AAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:19] "GET /socket.io/?EIO=4&transport=polling&t=PPQG8J4&sid=VWDy7zxKObRdLpa0AAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:21] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:23] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:25] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:26] "GET /socket.io/?EIO=4&transport=websocket&sid=VWDy7zxKObRdLpa0AAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:26] "GET /socket.io/?EIO=4&transport=polling&t=PPQG9sO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:26] "POST /socket.io/?EIO=4&transport=polling&t=PPQG9sa&sid=4J0e7_gMDDlBsig6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:26] "GET /socket.io/?EIO=4&transport=polling&t=PPQG9sb&sid=4J0e7_gMDDlBsig6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:27] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:28] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270896.5283556 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:28] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:29] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:29 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:29] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:29] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270908.1670597 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:31] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:33] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:35] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:35 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:35] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:35] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270909.9317834 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:36 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270916.0008168 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:36 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270916.4183736 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:36 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270916.6141152 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:36 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:36] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270916.8003151 HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:37 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:37] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:37] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270916.984953 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:37] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:58:37 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:37] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:37] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270917.1373 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:39] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:41] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:43] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:45] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:47] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:49] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:51] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:53] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270917.3527672 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:53] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:53] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:55] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:57] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:58:59] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:01] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:03] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:05] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:07] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:09] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:11] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "GET /socket.io/?EIO=4&transport=websocket&sid=4J0e7_gMDDlBsig6AAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "GET /socket.io/?EIO=4&transport=polling&t=PPQGLL4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "POST /socket.io/?EIO=4&transport=polling&t=PPQGLLO&sid=HCblv8ZiBvy1kdoAAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:13] "GET /socket.io/?EIO=4&transport=polling&t=PPQGLLP&sid=HCblv8ZiBvy1kdoAAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:15] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "GET /socket.io/?EIO=4&transport=websocket&sid=HCblv8ZiBvy1kdoAAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "GET /socket.io/?EIO=4&transport=polling&t=PPQGM2S HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "POST /socket.io/?EIO=4&transport=polling&t=PPQGM2f&sid=MqtrucS4Qx6mX6ctAAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "GET /socket.io/?EIO=4&transport=polling&t=PPQGM2f.0&sid=MqtrucS4Qx6mX6ctAAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:16] "GET /socket.io/?EIO=4&transport=polling&t=PPQGM2s&sid=MqtrucS4Qx6mX6ctAAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "GET /socket.io/?EIO=4&transport=websocket&sid=MqtrucS4Qx6mX6ctAAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "GET /socket.io/?EIO=4&transport=polling&t=PPQGMLV HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "POST /socket.io/?EIO=4&transport=polling&t=PPQGMLm&sid=AOj91Pu-DI_Y8dRpAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:17] "GET /socket.io/?EIO=4&transport=polling&t=PPQGMLo&sid=AOj91Pu-DI_Y8dRpAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:18] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270933.1882668 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:18] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:19] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:root:2025-04-22 02:59:20 | Connection | 192.168.0.1 | Attempted SSH login
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:20] "GET /simulate_connection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:20] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270958.1997375 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:21] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:23] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:25] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:27] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:29] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:31] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:33] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:35] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:37] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:39] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:41] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:43] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270960.795241 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:43] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:43] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:45] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:47] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:49] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:51] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:53] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:55] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:57] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 02:59:59] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:01] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:03] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:05] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:07] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:08] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745270983.2053888 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:08] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:09] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:11] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:13] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:15] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:17] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:19] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:21] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:23] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:25] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:27] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:29] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:31] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:33] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745271008.2290576 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:33] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:33] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:35] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:37] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:39] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:41] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:43] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:45] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:47] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:49] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:51] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:53] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:55] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:57] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:58] "GET /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG&t=1745271033.2400765 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2025 03:00:58] "POST /socket.io/?transport=polling&EIO=4&sid=A_IlYr0rwQPui1heAAAG HTTP/1.1" 200 -

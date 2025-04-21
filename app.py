@@ -10,7 +10,7 @@ socketio = SocketIO(app)
 # Set up logging to store events
 logging.basicConfig(filename='honeypot.log', level=logging.INFO)
 
-# Function to log events
+# Function to log events and emit them to the frontend
 def log_event(event_type, ip_address, message):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     log_message = f"{timestamp} | {event_type} | {ip_address} | {message}"
@@ -25,15 +25,15 @@ def simulate_connection():
     log_event('Connection', '192.168.0.1', 'Attempted SSH login')
     return 'Connection simulated'
 
-@app.route('/simulate_connection')
-def simulate_connection():
-    log_event('Connection', '192.168.0.1', 'Attempted SSH login')
-    return 'Connection simulated'
-
 # Handle frontend connection
 @socketio.on('connect')
 def handle_connect():
     print("Client connected")
+
+# Serve the HTML page for frontend
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 if __name__ == '__main__':
     socketio.run(app, debug=True)
